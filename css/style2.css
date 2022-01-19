@@ -1,6 +1,10 @@
 @import"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap');
 
+html{
+  scroll-behavior: smooth;
+}
+
 .jumbotron{
   background-size: cover;
   background-repeat: no-repeat;
@@ -57,6 +61,7 @@
 }
 
 
+
 .profil{
   margin-top:-70px;
 }
@@ -94,25 +99,25 @@
 
 }
 
-.html{
+.wp{
   height:20px;
-  width:90%;
+  width:55%;
   background-color:#424242;
   box-shadow:2px 0px 2px grey;
   border-radius: 10px;
 }
 
-.CSS{
+.nm{
   height:20px;
-  width: 75%;
+  width: 80%;
   background-color:#424242 ;
   box-shadow:2px 0px 2px grey;
   border-radius: 10px;
 }
 
-.JavaScript{
+.ls{
   height:20px;
-  width: 20%;
+  width: 85%;
   background-color:#424242;
   box-shadow:2px 0px 2px grey;
   border-radius: 10px;
@@ -158,7 +163,7 @@
    -o-transition: all 0.5s;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
-box-shadow: 0px 0px 5px grey;
+    box-shadow: 0px 0px 20px black;
 }
 
 
