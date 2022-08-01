@@ -293,3 +293,9 @@ html{
     display: none;
   }
 }
+
+.penghargaan a {
+  text-align: center;
+  text-decoration:none;
+  margin: auto;
+}
